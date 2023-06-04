@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&display=swap');
+* {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+.container {
+    width: 90%;
+    margin: auto;
+    max-width: 1080px;
+}
+header {
+    padding: 50px 220px;
+    background-color: #59A14B;
+    position: relative;
+}
+header img {
+    width: 14%;
+}
+.heading {
+    margin-left: -92px;
+}
+.heading h2 {
+    padding-top: 2px;
+    font-family: 'Inter';
+}
+.up {
+    display: flex;
+    gap: 10px;
+    text-align: center;
+    margin-left: 15px;
+}
+.facu {
+    text-align: center;
+    font-family: 'Inter';
+    font-weight: 500;
+}
+button {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 10px;
+    font-size: 25px;
+    width: 170px;
+    font-family: 'Inter';
+    background-color: #59A14B;
+    border: 1px solid #000;
+    font-weight: bold;
+    letter-spacing: 0.1px;
+}
+.card {
+    font-family: 'Inter';
+    font-size: 15.5px;
+    margin-top: 15px;
+    font-weight: 500;
+}
+.name {
+    margin-top: 40px;
+    font-family: 'Inter';
+    font-size: 14px;
+    line-height: 20px;
+    text-align: left;
+    margin-left: 110px;
+}
+.cntrol {
+    margin-top: 70px;
+    text-align: right;
+    font-size: 14.7px;
+    font-family: 'Inter';
+}
+.sig {
+    text-align: right;
+    font-size: 11px;
+    font-family: 'Inter';
+    margin-top: -15px;
+}
+.fst {
+    position: absolute;
+    top: 295px;
+    right: 307px;
+}
+.fst img {
+    width: 120px;
+}
+
